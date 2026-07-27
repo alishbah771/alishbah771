@@ -13,10 +13,12 @@
   />
 </p>
 
-<h1 align="center">
-  Hey there, I'm Alishbah
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
-</h1>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=36&duration=3500&pause=100000&color=A42BBD&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Alishbah"
+    alt="Hey there, I'm Alishbah"
+  />
+</p>
 
 <p align="center">
   <img
