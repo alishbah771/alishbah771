@@ -50,14 +50,14 @@
 <!--                     ABOUT ME SECTION                      -->
 <!-- ========================================================= -->
 
-<h2 align="center">💜 About Me</h2>
+<h2 align="center"> About Me</h2>
 
 <table>
 <tr>
 
 <td width="80%" valign="center">
 
-Hi! I'm **Alishbah** 💜, a Computer Science student who enjoys combining creativity with technology. Whether it's developing applications, designing intuitive interfaces, or exploring game development, I love bringing ideas to life through both code and design.
+Hi! I'm **Alishbah** , a Computer Science student who enjoys combining creativity with technology. Whether it's developing applications, designing intuitive interfaces, or exploring game development, I love bringing ideas to life through both code and design.
 
 -  BS Computer Science Student
 -  Passionate about software development and problem solving
@@ -76,15 +76,15 @@ Hi! I'm **Alishbah** 💜, a Computer Science student who enjoys combining creat
 <!--                   BEYOND CODING SECTION                   -->
 <!-- ========================================================= -->
 
-<h2 align="center">🌸 Beyond Coding</h2>
+<h2 align="center"> Beyond Coding</h2>
 
 <p align="center">
 
- . Watching K-Dramas & TV Series &nbsp;&nbsp;•&nbsp;&nbsp;
- . Coding with Music &nbsp;&nbsp;•&nbsp;&nbsp;
- . Graphic Design &nbsp;&nbsp;•&nbsp;&nbsp;
- . Cozy Games &nbsp;&nbsp;•&nbsp;&nbsp;
- . Turning Ideas into Reality
+  Watching K-Dramas & TV Series &nbsp;&nbsp;•&nbsp;&nbsp;
+  Coding with Music &nbsp;&nbsp;•&nbsp;&nbsp;
+  Graphic Design &nbsp;&nbsp;•&nbsp;&nbsp;
+  Cozy Games &nbsp;&nbsp;•&nbsp;&nbsp;
+  Turning Ideas into Reality
 
 </p>
 
@@ -92,17 +92,8 @@ Hi! I'm **Alishbah** 💜, a Computer Science student who enjoys combining creat
 <!--                      TECH STACK                           -->
 <!-- ========================================================= -->
 
-<h2 align="center">💻 Tech Stack</h2>
 
-<p align="center">
-
-<b>Languages</b>
-<br>
-<img src="https://skillicons.dev/icons?i=java,python,cpp,js,html,css,mysql" />
-
-<br><br>
-
-<h2 align="center">💻 Tech Stack</h2>
+<h2 align="center"> Tech Stack</h2>
 
 <p align="center">
 
@@ -136,7 +127,7 @@ Hi! I'm **Alishbah** 💜, a Computer Science student who enjoys combining creat
 <!--                    GITHUB ANALYTICS                       -->
 <!-- ========================================================= -->
 
-<h2 align="center">📈 GitHub Analytics</h2>
+<h2 align="center"> GitHub Analytics</h2>
 
 <p align="center">
 
@@ -162,7 +153,7 @@ Hi! I'm **Alishbah** 💜, a Computer Science student who enjoys combining creat
 <!--                  CONTRIBUTION SNAKE                       -->
 <!-- ========================================================= -->
 
-<h2 align="center">🐍 Contribution Snake</h2>
+<h2 align="center"> Contribution Snake</h2>
 
 <p align="center">
 
@@ -214,7 +205,7 @@ jobs:
 <!--                    CONNECT WITH ME                        -->
 <!-- ========================================================= -->
 
-<h2 align="center">📫 Connect With Me</h2>
+<h2 align="center"> Connect With Me</h2>
 
 <p align="center">
 
