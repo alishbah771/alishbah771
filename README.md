@@ -102,11 +102,21 @@ Hi! I'm **Alishbah** 💜, a Computer Science student who enjoys combining creat
 
 <br><br>
 
+<h2 align="center">💻 Tech Stack</h2>
+
+<p align="center">
+
+<b>Languages</b>
+<br>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,js,html,css,mysql" />
+
+<br>
+
 <b>Game Development</b>
 <br>
 <img src="https://skillicons.dev/icons?i=godot" />
 
-<br><br>
+<br>
 
 <b>Design</b>
 <br>
@@ -114,7 +124,7 @@ Hi! I'm **Alishbah** 💜, a Computer Science student who enjoys combining creat
 <br>
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 
-<br><br>
+<br>
 
 <b>Developer Tools</b>
 <br>
@@ -122,7 +132,6 @@ Hi! I'm **Alishbah** 💜, a Computer Science student who enjoys combining creat
 
 </p>
 
----
 <!-- ========================================================= -->
 <!--                    GITHUB ANALYTICS                       -->
 <!-- ========================================================= -->
@@ -131,15 +140,15 @@ Hi! I'm **Alishbah** 💜, a Computer Science student who enjoys combining creat
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=alishbah771&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=alishbah771&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alishbah771&layout=compact&theme=midnight-purple&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alishbah771&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=alishbah771&theme=midnight-purple&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=alishbah771&theme=tokyonight&hide_border=true"/>
 
 </p>
 
