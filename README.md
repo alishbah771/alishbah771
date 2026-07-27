@@ -1,4 +1,4 @@
-this is the final version dont add anything if i removed smt just check if it has any issue logical or layout issue 
+ 
 
 <!-- ========================================================= -->
 <!--                        HERO SECTION                       -->
@@ -55,23 +55,15 @@ this is the final version dont add anything if i removed smt just check if it ha
 <table>
 <tr>
 
-<td width="65%" valign="top">
+<td width="80%" valign="center">
 
 Hi! I'm **Alishbah** 💜, a Computer Science student who enjoys combining creativity with technology. Whether it's developing applications, designing intuitive interfaces, or exploring game development, I love bringing ideas to life through both code and design.
 
-- 🎓 BS Computer Science Student
-- 💻 Passionate about software development and problem solving
-- 🌱 Currently learning **Full Stack Development**, **UI/UX Design**, and **Game Development**
-- 🎨 Experienced with **Adobe Photoshop**, **Adobe Illustrator**, **Figma**, and **Canva**
-- 🤝 Always open to learning, collaborating, and building meaningful projects
-
-</td>
-
-<td width="35%" align="center">
-
-<!-- Replace with your pixel profile illustration -->
-
-<img src="https://github.com/user-attachments/assets/29db7ea4-8970-4eab-b807-26a0ad4b7f62" width="250" alt="Pixel Profile"/>
+-  BS Computer Science Student
+-  Passionate about software development and problem solving
+-  Currently learning **Full Stack Development**, **UI/UX Design**, and **Game Development**
+-  Experienced with **Adobe Photoshop**, **Adobe Illustrator**, **Figma**, and **Canva**
+-  Always open to learning, collaborating, and building meaningful projects
 
 </td>
 
@@ -88,11 +80,11 @@ Hi! I'm **Alishbah** 💜, a Computer Science student who enjoys combining creat
 
 <p align="center">
 
-📺 Watching K-Dramas & TV Series &nbsp;&nbsp;•&nbsp;&nbsp;
-🎵 Coding with Music &nbsp;&nbsp;•&nbsp;&nbsp;
-🎨 Graphic Design &nbsp;&nbsp;•&nbsp;&nbsp;
-🎮 Cozy Games &nbsp;&nbsp;•&nbsp;&nbsp;
-💜 Turning Ideas into Reality
+ . Watching K-Dramas & TV Series &nbsp;&nbsp;•&nbsp;&nbsp;
+ . Coding with Music &nbsp;&nbsp;•&nbsp;&nbsp;
+ . Graphic Design &nbsp;&nbsp;•&nbsp;&nbsp;
+ . Cozy Games &nbsp;&nbsp;•&nbsp;&nbsp;
+ . Turning Ideas into Reality
 
 </p>
 
@@ -105,43 +97,32 @@ Hi! I'm **Alishbah** 💜, a Computer Science student who enjoys combining creat
 <p align="center">
 
 <b>Languages</b>
-
-<br><br>
-
+<br>
 <img src="https://skillicons.dev/icons?i=java,python,cpp,js,html,css,mysql" />
 
 <br><br>
 
 <b>Game Development</b>
-
-<br><br>
-
+<br>
 <img src="https://skillicons.dev/icons?i=godot" />
 
 <br><br>
 
 <b>Design</b>
-
-<br><br>
-
+<br>
 <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
-
-<br><br>
-
+<br>
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 
 <br><br>
 
 <b>Developer Tools</b>
-
-<br><br>
-
+<br>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 </p>
 
 ---
-
 <!-- ========================================================= -->
 <!--                    GITHUB ANALYTICS                       -->
 <!-- ========================================================= -->
