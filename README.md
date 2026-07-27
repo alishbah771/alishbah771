@@ -128,29 +128,20 @@ Hi! I'm **Alishbah** , a Computer Science student who enjoys combining creativit
 <!-- ========================================================= -->
 <!--                    GITHUB ANALYTICS                       -->
 <!-- ========================================================= -->
-
 <h2 align="center"> GitHub Analytics</h2>
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats-alishbah1.vercel.app/api?username=alishbah771&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github&v=2"/>
-
-<img height="170" src="https://github-readme-stats-alishbah1.vercel.app/api/top-langs/?username=alishbah771&layout=compact&theme=midnight-purple&hide_border=true&v=2"/>
-
+  <img height="170" src="https://github-readme-stats-alishbah1.vercel.app/api?username=alishbah771&show_icons=true&theme=midnight-purple&hide_border=true&cache_seconds=86400"/>
+  <img height="170" src="https://github-readme-stats-alishbah1.vercel.app/api/top-langs/?username=alishbah771&layout=compact&theme=midnight-purple&hide_border=true&cache_seconds=86400"/>
 </p>
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=alishbah771&theme=midnight-purple&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=alishbah771&theme=midnight-purple&hide_border=true"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alishbah771&theme=tokyo-night&bg_color=0D1117&hide_border=true&color=A42BBD&line=740A8A&point=FFFFFF"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alishbah771&theme=tokyo-night&bg_color=0D1117&hide_border=true&color=A42BBD&line=740A8A&point=FFFFFF"/>
 </p>
-
 <!-- ========================================================= -->
 <!--                  CONTRIBUTION SNAKE                       -->
 <!-- ========================================================= -->
