@@ -133,15 +133,15 @@ Hi! I'm **Alishbah** , a Computer Science student who enjoys combining creativit
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=alishbah771&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img height="170" src="https://github-readme-stats-alishbah1.vercel.app/api?username=alishbah771&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alishbah771&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img height="170" src="https://github-readme-stats-alishbah1.vercel.app/api/top-langs/?username=alishbah771&layout=compact&theme=midnight-purple&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=alishbah771&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=alishbah771&theme=midnight-purple&hide_border=true"/>
 
 </p>
 
