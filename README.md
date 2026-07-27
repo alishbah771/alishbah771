@@ -131,11 +131,6 @@ Hi! I'm **Alishbah** , a Computer Science student who enjoys combining creativit
 <h2 align="center"> GitHub Analytics</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-alishbah1.vercel.app/api?username=alishbah771&show_icons=true&theme=midnight-purple&hide_border=true&cache_seconds=86400"/>
-  <img height="170" src="https://github-readme-stats-alishbah1.vercel.app/api/top-langs/?username=alishbah771&layout=compact&theme=midnight-purple&hide_border=true&cache_seconds=86400"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=alishbah771&theme=midnight-purple&hide_border=true"/>
 </p>
 
